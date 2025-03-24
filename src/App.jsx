@@ -17,19 +17,19 @@ function App() {
                     </div>
 
                     <nav className="hidden md:flex items-center space-x-6">
-                        <a href="https://webcrumbs.cloud/placeholder" className="font-medium hover:text-blue-600">
+                        <a href="#" className="font-medium hover:text-blue-600">
                             Home
                         </a>
-                        <a href="https://webcrumbs.cloud/placeholder" className="font-medium hover:text-blue-600">
+                        <a href="#" className="font-medium hover:text-blue-600">
                             Models
                         </a>
-                        <a href="https://webcrumbs.cloud/placeholder" className="font-medium hover:text-blue-600">
+                        <a href="#" className="font-medium hover:text-blue-600">
                             Features
                         </a>
-                        <a href="https://webcrumbs.cloud/placeholder" className="font-medium hover:text-blue-600">
+                        <a href="#" className="font-medium hover:text-blue-600">
                             About
                         </a>
-                        <a href="https://webcrumbs.cloud/placeholder" className="font-medium hover:text-blue-600">
+                        <a href="#" className="font-medium hover:text-blue-600">
                             Contact
                         </a>
                     </nav>
@@ -39,19 +39,19 @@ function App() {
                             <span className="material-symbols-outlined text-2xl">menu</span>
                         </summary>
                         <div className="absolute right-0 mt-2 w-48 bg-white rounded shadow-md py-2 z-10 border border-gray-200">
-                            <a href="https://webcrumbs.cloud/placeholder" className="block px-4 py-2 hover:bg-gray-100">
+                            <a href="#" className="block px-4 py-2 hover:bg-gray-100">
                                 Home
                             </a>
-                            <a href="https://webcrumbs.cloud/placeholder" className="block px-4 py-2 hover:bg-gray-100">
+                            <a href="#" className="block px-4 py-2 hover:bg-gray-100">
                                 Models
                             </a>
-                            <a href="https://webcrumbs.cloud/placeholder" className="block px-4 py-2 hover:bg-gray-100">
+                            <a href="#" className="block px-4 py-2 hover:bg-gray-100">
                                 Features
                             </a>
                             <a href="https://webcrumbs.cloud/placeholder" className="block px-4 py-2 hover:bg-gray-100">
                                 About
                             </a>
-                            <a href="https://webcrumbs.cloud/placeholder" className="block px-4 py-2 hover:bg-gray-100">
+                            <a href="#" className="block px-4 py-2 hover:bg-gray-100">
                                 Contact
                             </a>
                         </div>
